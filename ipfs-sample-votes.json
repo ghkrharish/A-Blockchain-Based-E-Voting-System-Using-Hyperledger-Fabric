@@ -1,0 +1,14 @@
+[
+  {
+    "ipfs_hash": "QmXo123abc456voteDataHash",
+    "voter_id": "VOTER1234",
+    "encrypted_vote": "0xA1B2C3D4EncryptedVoteData",
+    "timestamp": "2025-04-01T12:00:00Z"
+  },
+  {
+    "ipfs_hash": "QmYz789def987voteDataHash",
+    "voter_id": "VOTER5678",
+    "encrypted_vote": "0xD4C3B2A1EncryptedVoteData",
+    "timestamp": "2025-04-01T12:10:00Z"
+  }
+]
